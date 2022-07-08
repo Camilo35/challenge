@@ -1,0 +1,1 @@
+This is PostgreSQL custom backup database in SQL format, to access you have to restore it in your pgAdmin 4
