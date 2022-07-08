@@ -1,0 +1,5 @@
+postgresql_host=
+postgresql_user=
+postgresql_password=
+postgresql_port=
+postgresql_database=
